@@ -1,23 +1,23 @@
 # Grading for portfolio-gaolinyi828
 **Class:** 2019FACS5340SV<br>
-**Date:** 2019-12-14<br>
+**Date:** 2019-12-15<br>
 **Grader:** pgust
 
-## Total: ?/160
+## Total: ?/120
 ## Comments
 
-* Overall Portfolio (?/10)
+* Overall Portfolio (?/5)
 
-* Portfolio Presentation (?/30)
+* Portfolio Presentation (?/25)
 
-* Preliminary Design (?/20)
+* Preliminary Design (?/15)
 
-* Full Design & Specification (?/20)
+* Full Design & Specification (?/15)
 
-* Storyboard & Paper Prototype (?/20)
+* Storyboard & Paper Prototype (?/15)
 
-* Test Design & Pilot Test (?/20)
+* Test Design & Pilot Test (?/15)
 
-* Qualitative Usability Study (?/20)
+* Qualitative Usability Study (?/15)
 
-* Medium- to High-Fidelity Functional Prototype (?/20)
+* Medium- to High-Fidelity Functional Prototype (?/15)
